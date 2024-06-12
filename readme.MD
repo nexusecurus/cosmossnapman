@@ -139,7 +139,7 @@ SNAPMaker simplifies the snapshot management process within the Cosmos Ecosystem
 Clone this repository to your machine using the following commands:
 
 ```bash
-    git clone https://github.com/nexusecurus/cosmossnapmaker.git
+    git clone https://github.com/nexusecurus/cosmossnapman.git
 ```
 
 
