@@ -1,0 +1,4 @@
+curl
+rsync
+ncat
+openssh-server
